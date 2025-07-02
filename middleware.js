@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 
-const PASSWORD = 'letmein'; // Change this to your secret password
+const PASSWORD = 'zku657gh-juh56-jtuz6-plkj2'; // Change this to your secret password
 const COOKIE_NAME = 'customtab_auth';
 const COOKIE_VALUE = 'authenticated';
 const COOKIE_MAX_AGE = 60 * 60 * 24 * 30; // 30 days
